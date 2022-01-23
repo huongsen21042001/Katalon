@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5_Register With Pass Less 8 Characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b3fbee4-1167-4f87-a1c9-1d3e1b6d3296</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>f8bc340a-0a00-4c2f-9e1b-befb738ceb38</id>
+      <masked>false</masked>
+      <name>linkUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'Huong Sen'</defaultValue>
+      <description></description>
+      <id>dc874ad4-a4b9-43d2-8c0f-c0919f84649d</id>
+      <masked>false</masked>
+      <name>input_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'hila@gmail.com'</defaultValue>
+      <description></description>
+      <id>c3cdf62b-0975-4bc4-9c8e-c5621df26170</id>
+      <masked>false</masked>
+      <name>input_Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0847475234'</defaultValue>
+      <description></description>
+      <id>9500cabb-0196-4875-a07e-1ea274bc89f4</id>
+      <masked>false</masked>
+      <name>input_phoneNumber</name>
+   </variable>
+</TestCaseEntity>

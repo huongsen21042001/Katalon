@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_Register With Ivalid Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a0d6277-8f9e-4c2d-8f82-d83da5afd038</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>bc1bbb50-4233-42b9-9f2b-6f95f5408985</id>
+      <masked>false</masked>
+      <name>linkUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'Huong Sen'</defaultValue>
+      <description></description>
+      <id>748bd448-b27b-4572-9e36-cb72e51537db</id>
+      <masked>false</masked>
+      <name>input_userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'senhuong@gmail'</defaultValue>
+      <description></description>
+      <id>14f32ae0-dec1-41cd-b57e-ac158e02f215</id>
+      <masked>false</masked>
+      <name>input_Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0847475345'</defaultValue>
+      <description></description>
+      <id>9d818dce-0c0a-4564-8401-a21301fb078d</id>
+      <masked>false</masked>
+      <name>input_numberPhone</name>
+   </variable>
+</TestCaseEntity>
