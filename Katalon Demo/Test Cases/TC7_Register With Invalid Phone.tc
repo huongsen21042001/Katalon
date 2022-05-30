@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC7_Register With Invalid Phone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c72ea76d-95d4-4cf2-828c-0158aa5d44b3</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>cb49dfff-0c59-470b-a6fa-ecaaab870495</id>
+      <masked>false</masked>
+      <name>linkUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'Huong Sen'</defaultValue>
+      <description></description>
+      <id>fa45aa69-bb34-4e5c-9838-a98163123185</id>
+      <masked>false</masked>
+      <name>input_userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'higahi@gmail.com'</defaultValue>
+      <description></description>
+      <id>ef505339-3fca-45f7-b2b1-3bbb1c262dd0</id>
+      <masked>false</masked>
+      <name>input_Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'08474752345'</defaultValue>
+      <description></description>
+      <id>cdca7363-4dc4-410d-ae90-3bcc314f6542</id>
+      <masked>false</masked>
+      <name>input_phoneNumber</name>
+   </variable>
+</TestCaseEntity>

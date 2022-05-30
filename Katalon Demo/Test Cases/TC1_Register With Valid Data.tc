@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_Register With Valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60629655-bf84-4175-8ab0-302807f5957e</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>b439101e-c7d8-4c91-89db-f595f7991456</id>
+      <masked>false</masked>
+      <name>linkUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'Huong Sen'</defaultValue>
+      <description></description>
+      <id>7307447b-cb09-4058-bf88-1cb56dcbdf25</id>
+      <masked>false</masked>
+      <name>input_txtName</name>
+   </variable>
+   <variable>
+      <defaultValue>'nobita21042001senhuong@gmail.com'</defaultValue>
+      <description></description>
+      <id>b1a0e446-200d-4837-b715-f156ac5f14a9</id>
+      <masked>false</masked>
+      <name>input_Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0847475234'</defaultValue>
+      <description></description>
+      <id>ebef7a34-02a8-4e4f-ae16-2ab78398da65</id>
+      <masked>false</masked>
+      <name>input_phoneNumber</name>
+   </variable>
+</TestCaseEntity>

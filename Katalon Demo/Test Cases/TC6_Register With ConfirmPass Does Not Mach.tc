@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6_Register With ConfirmPass Does Not Mach</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2af8538-61da-48bf-8189-df7ea7c34f0e</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>1de6510a-ada1-463c-bc89-ec0737f74ba8</id>
+      <masked>false</masked>
+      <name>linkUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'Huong Sen'</defaultValue>
+      <description></description>
+      <id>f356c5a2-b4e4-4ab0-9a0e-e05e31456f7c</id>
+      <masked>false</masked>
+      <name>input_userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'senh@gmail.com'</defaultValue>
+      <description></description>
+      <id>bd748863-6898-413e-8de3-13a4cb38ff12</id>
+      <masked>false</masked>
+      <name>input_Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0847475234'</defaultValue>
+      <description></description>
+      <id>64b05ef3-5be7-40c2-bf1d-1b93424225cc</id>
+      <masked>false</masked>
+      <name>input_phoneNumber</name>
+   </variable>
+</TestCaseEntity>

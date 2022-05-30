@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Register With Invalid Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebaf5dc9-73b8-43a4-b582-f97f7ae6c8e7</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>ca3944c6-6e5d-44a3-8ed6-03332d1b6585</id>
+      <masked>false</masked>
+      <name>linkUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'74658hh'</defaultValue>
+      <description></description>
+      <id>c35c7711-0804-4a1f-9683-b9bd042de744</id>
+      <masked>false</masked>
+      <name>input_userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'0847475345'</defaultValue>
+      <description></description>
+      <id>8b5b6eab-4f44-4f17-85f9-d0f726a34d20</id>
+      <masked>false</masked>
+      <name>input_phoneNumber</name>
+   </variable>
+</TestCaseEntity>
